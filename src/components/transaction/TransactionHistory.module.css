@@ -1,0 +1,14 @@
+.table {
+    width: 80%;
+    margin: 25px auto 0 auto;
+}
+
+.thead {
+    background-color: rgb(152, 213, 185);
+    padding: 10px;
+}
+
+td {
+    text-align: center;
+    padding: 7px;
+}
